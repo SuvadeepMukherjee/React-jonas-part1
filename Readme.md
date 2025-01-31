@@ -1,0 +1,1 @@
+## This repository contains notes to part 1 of React Jonas Course
